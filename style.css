@@ -14,9 +14,11 @@ nav{
 #nav-link{
   font-size: 20px;
   background-color: gray;
-    padding-left: 10px;
-    padding-right: 10px;
-    
+  padding-left: 10px;
+  padding-right: 10px; 
+}
+#nav-link:hover{
+  color: red;
 }
 #featured-property{
   text-align: center;
@@ -24,7 +26,7 @@ nav{
 #details{
   text-align: center;
   background: fixed;
-  background-color: rgb(180, 77, 77);
+  background-color: rgb(160, 34, 34);
   border: 3px solid #fff;
   padding: 10px;
   display: flex;
