@@ -8,3 +8,10 @@ header{
   text-align: center;
 
 }
+#featured-property{
+  text-align: center;
+}
+#details{
+  background-color: brown;
+  display: inline-block;
+}
