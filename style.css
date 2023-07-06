@@ -23,12 +23,15 @@ a{
   border: 3px solid #fff;
   padding: 20px;
   background-color: lightgreen;
+  display: flex;
+  justify-content: space-around;
   
 }
 div{
   width: 15%;
-  float: left;
+  
   padding: 20px;
   
 }
+
 
