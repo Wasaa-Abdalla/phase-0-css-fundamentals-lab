@@ -21,10 +21,11 @@ nav{
   text-align: center;
 }
 #details{
+  text-align: center;
   background: fixed;
   background-color: rgb(180, 77, 77);
   border: 3px solid #fff;
-  padding: 20px;
+  padding: 10px;
   display: flex;
   justify-content: space-around;
   
@@ -32,7 +33,6 @@ nav{
 div{
   width: 25%;
   float: left;
-
   padding: 20px;
   
 }
