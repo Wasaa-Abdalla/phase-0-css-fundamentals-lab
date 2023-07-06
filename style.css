@@ -12,6 +12,13 @@ header{
   text-align: center;
 }
 #details{
-  background-color: brown;
+  border: 3px solid #fff;
+  padding: 20px;
+  background-color: lightgreen;
   display: inline-block;
+}
+div{
+  width: 25%;
+  padding: 20px;
+  border: 2px solid red;
 }
