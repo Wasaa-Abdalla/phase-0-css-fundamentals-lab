@@ -12,6 +12,7 @@ nav{
   text-align: center;
 }
 #nav-link{
+  font-size: 20px;
   background-color: gray;
     padding-left: 10px;
     padding-right: 10px;
